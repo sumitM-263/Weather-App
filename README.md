@@ -2,7 +2,7 @@
 
 A sleek and responsive weather application built using **HTML**, **CSS**, and **JavaScript**. Enter any city name and get real-time weather details like temperature, humidity, wind speed, and more using the OpenWeatherMap API.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/255c082a-7492-4985-ba8a-b398a62e941e)
 
 
 ---
